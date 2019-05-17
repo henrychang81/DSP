@@ -9,8 +9,8 @@
 
 ---
 
-[程式碼](Linear_Regression.v)：
-**DSP/Linear_Regression.v**
+[程式碼](Linear_Regression.v)：**DSP / Linear_Regression.v**
+[TestBench](LR_testbench.v)：**DSP / LR_testbench.v**
 
-最後用的結果：
-![](HW4_WAVE.JPG | width=100)
+最後的結果：
+![wave](./HW4_WAVE.JPG)
